@@ -18,3 +18,10 @@ submitList
 View, Context参照しない
 * Room  
 基本は Thread から呼び出し  
+
+## Navigation Architecture Component  
+
+
+
+## [Deep Dive into Slice](https://speakerdeck.com/kobitokaba/deep-dive-into-slices?slide=1)  
+
